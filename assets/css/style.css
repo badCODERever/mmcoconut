@@ -382,12 +382,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #28a745;
+  border: 2px solid #f8faf8;
 }
 
 #hero .btn-get-started:hover {
-  background: #28a745;
-  color: #fff;
+  background: #ffffff;
+  color: #28a745;
   text-decoration: none;
 }
 
