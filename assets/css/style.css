@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-  color: #fc8129;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top i:hover {
-  background: #fc7c1f;
+  background: #126325;
   color: #fff;
 }
 
@@ -1202,18 +1202,18 @@ section {
   border-radius: 50px;
   width: 36px;
   height: 36px;
-  background: rgba(239, 102, 3, 0.8);
+  background: #126325;
   display: inline-block;
   transition: ease-in-out 0.3s;
   color: #fff;
 }
 
 .team .member .social a:hover {
-  background: #fc8129;
+  background: #126325;
 }
 
 .team .member .facebook .social a:hover {
-  background: #fc8129;
+  background: #126325;
 }
 
 .team .member .social i {
@@ -1586,7 +1586,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #bd5102;
+  background: #126325;
   color: #fff;
   text-decoration: none;
 }
